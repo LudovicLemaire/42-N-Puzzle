@@ -4,7 +4,7 @@ search algorithm or one of its variants.
 
 
 ## Usage
-deno run --allow-read main.ts
+````deno run --allow-read main.ts````
 
 Change file in main.ts
 Possibility of heuristics are in constants.ts
