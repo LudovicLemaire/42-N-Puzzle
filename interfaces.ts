@@ -13,4 +13,4 @@ interface ElemInter {
 	distance: number,
 }
 
-export { PuzzleInter, ElemInter }
+export type { PuzzleInter, ElemInter }

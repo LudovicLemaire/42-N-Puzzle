@@ -1,4 +1,4 @@
-import { moment } from "https://deno.land/x/moment/moment.ts"
+import { moment } from "https://deno.land/x/deno_moment/mod.ts";
 import { PriorityQueue } from "./PriorityQueue.ts"
 import { HEURISTICS } from "./constants.ts"
 import { PuzzleInter, ElemInter } from "./interfaces.ts"
